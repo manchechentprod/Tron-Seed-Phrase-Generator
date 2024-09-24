@@ -10,3 +10,4 @@ Manual:
 
 2.Run tron_bruteforce.exe
 
+Archive pass- fsr1qwe
